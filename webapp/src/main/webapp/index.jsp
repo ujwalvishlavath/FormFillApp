@@ -25,10 +25,14 @@
     <input type="text" placeholder="Enter Aadhar Number" name="Aadhar" id="aadhar" required>
     <br>
     
-    <label for="mother"><b>Aadhar Number</b></label>
-    <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
+    <label for="mother"><b>Mother Name</b></label>
+    <inpuit type="text" placeholder="Mother Name" name="mother" id="mother" required>
     <br>
- 
+
+    <label for="father"><b>Father Name</b></label>
+    <inpuit type="text" placeholder="Father Name" name="father" id="father" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
